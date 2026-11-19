@@ -216,5 +216,13 @@ Ferramentas de IA podem ter sido usadas como apoio na estruturação inicial, re
 ## Grupo
 
 **Global Solution FIAP 2026/2 — Antes da Chuva**  
-**Integrantes / RM / turma:** preencher com os dados reais antes de entregar.  
+**Turma:** 2TDSPO
+
+| Aluno | RM |
+|---|---|
+| Gustavo Gomes Martins | 555999 |
+| Pedro dos Anjos | 563832 |
+| Matheus de Mattos Vecchi | 561716 |
+| Nicholas Albuquerque Buzo | 561082 |
+| Nicholas Camillo Canadas de Paula | 561262 | 
 **Disciplina:** Advanced Business Development with .NET.
